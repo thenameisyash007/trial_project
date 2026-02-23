@@ -1,4 +1,4 @@
 # trial_project
 I am practicing Git with this.
 <br>
-Author - Yash Bachhav
+Author - Yash Yogesh Bachhav
